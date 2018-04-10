@@ -1,0 +1,1 @@
+Run either Caesar or Vigenere and input the statements to run the cipher. Reverse statements in order to decrypt the cipher using "decrypt"
